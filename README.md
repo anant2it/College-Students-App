@@ -1,6 +1,6 @@
-# dummy01
+# College Students App
 
-A new Flutter application.
+A new Flutter Android application.
 
 ## Getting Started
 
